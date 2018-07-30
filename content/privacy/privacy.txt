@@ -170,7 +170,7 @@ Our site-wide search is running on a third-party search service. We index only t
 75008 Paris
 France*
 
-Algolia complies with GDRP. You can find their privacy policy here: [https://www.algolia.com/security](https://www.algolia.com/security)
+Algolia complies with GDPR. You can find their privacy policy here: [https://www.algolia.com/security](https://www.algolia.com/security)
 
 ---
 
