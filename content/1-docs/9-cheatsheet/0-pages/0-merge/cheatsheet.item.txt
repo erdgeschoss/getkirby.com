@@ -30,7 +30,7 @@ Text:
 ```php
 <?php
 $collection1 = page('exhibitions')->children()->visible();
-$collection2 = page('news')->children()->visible());
+$collection2 = page('news')->children()->visible();
 $newCollection = $collection1->merge($collection2);
 ?>
 ```
